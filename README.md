@@ -6,50 +6,49 @@
 
 ## Basic Details
 
-### Team Name: [Name]
+### Team Name: [Pink Protocol]
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: [Ragima N P] - [TKM College of Engineering, Kollam]
+- Member 2: [Varsha Surjith] - [TKM College of Engineering, Kollam]
 
 ### Hosted Project Link
-[mention your project hosted link here]
+[https://journel-mmob.vercel.app/]
 
 ### Project Description
-[2-3 lines about what your project does]
+[Its a personal space which gives you the freedom and privacy to express yourself through journals, notes etc.]
 
 ### The Problem statement
-[What problem are you solving?]
+[In today’s fast-paced world, people often struggle to track their emotions, manage daily tasks, and stay focused on personal growth. Traditional journals are static and disconnected, planners are scattered, and mental wellness support is limited. Many people lack a simple, aesthetic, and motivating digital space to record their thoughts, track their moods, plan tasks, and set goals — all in one place.]
 
 ### The Solution
-[How are you solving it?]
+[We aim to create “Mirror”, a web-based self-development and wellness app that:
 
----
+Allows users to record their thoughts and daily moods in an aesthetically pleasing digital journal.
 
+Helps users plan daily tasks and long-term goals, improving productivity and focus.
+
+Offers a safe, calm, and motivational environment with creative doodles, animations, and pastel UI to enhance user experience.
+
+Enables profile management (username, bio, login details) with secure account handling.]
+
+--
 ## Technical Details
 
 ### Technologies/Components Used
 
 **For Software:**
-- Languages used: [e.g., JavaScript, Python, Java]
-- Frameworks used: [e.g., React, Django, Spring Boot]
-- Libraries used: [e.g., axios, pandas, JUnit]
-- Tools used: [e.g., VS Code, Git, Docker]
-
-**For Hardware:**
-- Main components: [List main components]
-- Specifications: [Technical specifications]
-- Tools required: [List tools needed]
+- Languages used: [HTML, CSS, JavaScript,]
+- Tools used: [VS Code, Git]
 
 ---
 
 ## Features
 
 List the key features of your project:
-- Feature 1: [Description]
-- Feature 2: [Description]
-- Feature 3: [Description]
-- Feature 4: [Description]
+- Feature 1: [Daily Mood & Journal: Track your emotions and write daily thoughts in an aesthetic pastel-themed journal with mood-based suggestions.]
+- Feature 2: [Planner & Productivity: Add daily tasks and long-term goals, track progress with animated indicators, and boost productivity with motivational messages.]
+- Feature 3: [Aesthetic & Interactive Design: Mobile-first responsive UI with pastel gradients, subtle animations, and localStorage-based storage for all data]
 
 ---
 
@@ -67,30 +66,23 @@ List the key features of your project:
 [Run commands - e.g., npm start, python app.py]
 ```
 
-### For Hardware:
-
-#### Components Required
-[List all components needed with specifications]
-
-#### Circuit Setup
-[Explain how to set up the circuit]
-
----
 
 ## Project Documentation
 
 ### For Software:
+)
+#### Screenshots 
 
-#### Screenshots (Add at least 3)
+[<img width="1366" height="768" alt="Screenshot (67)" src="https://github.com/user-attachments/assets/eeb276ec-bab3-4c04-a5f7-c2633c9373b0" />
+]*Login page*
 
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![<img width="1366" height="768" alt="Screenshot (68)" src="https://github.com/user-attachments/assets/5d4ff7ad-1b58-419f-b6a4-b910aca7f7e3" />
+]
+*Home page*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![<img width="1366" height="768" alt="Screenshot (69)" src="https://github.com/user-attachments/assets/2a8849dd-1fb2-4577-aa4e-6bc7fab92644" />
+]
+*Planner*
 
 #### Diagrams
 
@@ -106,30 +98,7 @@ List the key features of your project:
 
 ---
 
-### For Hardware:
 
-#### Schematic & Circuit
-
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-#### Build Photos
-
-![Team](Add photo of your team here)
-
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
----
 
 ## Additional Documentation
 
@@ -230,37 +199,6 @@ xcodebuild -workspace App.xcworkspace -scheme App -configuration Debug
 
 **Total Estimated Cost:** ₹[Amount]
 
-#### Assembly Instructions
-
-**Step 1: Prepare Components**
-1. Gather all components listed in the BOM
-2. Check component specifications
-3. Prepare your workspace
-![Step 1](images/assembly-step1.jpg)
-*Caption: All components laid out*
-
-**Step 2: Build the Power Supply**
-1. Connect the power rails on the breadboard
-2. Connect Arduino 5V to breadboard positive rail
-3. Connect Arduino GND to breadboard negative rail
-![Step 2](images/assembly-step2.jpg)
-*Caption: Power connections completed*
-
-**Step 3: Add Components**
-1. Place LEDs on breadboard
-2. Connect resistors in series with LEDs
-3. Connect LED cathodes to GND
-4. Connect LED anodes to Arduino digital pins (2-6)
-![Step 3](images/assembly-step3.jpg)
-*Caption: LED circuit assembled*
-
-**Step 4: [Continue for all steps...]**
-
-**Final Assembly:**
-![Final Build](images/final-build.jpg)
-*Caption: Completed project ready for testing*
-
----
 
 ### For Scripts/CLI Tools:
 
@@ -361,7 +299,7 @@ python script.py -v --format json data.json
 ## Project Demo
 
 ### Video
-[Add your demo video link here - YouTube, Google Drive, etc.]
+[https://drive.google.com/file/d/1RoOqd2AqXQZOxe8Fcu6ysmPdO-Ste5T6/view?usp=sharing]
 
 *Explain what the video demonstrates - key features, user flow, technical highlights*
 
@@ -374,22 +312,17 @@ python script.py -v --format json data.json
 
 If you used AI tools during development, document them here for transparency:
 
-**Tool Used:** [e.g., GitHub Copilot, v0.dev, Cursor, ChatGPT, Claude]
+**Tool Used:** [ChatGPT, Gemini]
 
-**Purpose:** [What you used it for]
-- Example: "Generated boilerplate React components"
-- Example: "Debugging assistance for async functions"
-- Example: "Code review and optimization suggestions"
+**Purpose:**
+- Debugging assistance for async functions
+- Code review and optimization suggestions
 
-**Key Prompts Used:**
-- "Create a REST API endpoint for user authentication"
-- "Debug this async function that's causing race conditions"
-- "Optimize this database query for better performance"
 
-**Percentage of AI-generated code:** [Approximately X%]
+
+**Percentage of AI-generated code:** [80%]
 
 **Human Contributions:**
-- Architecture design and planning
 - Custom business logic implementation
 - Integration and testing
 - UI/UX design decisions
@@ -400,9 +333,9 @@ If you used AI tools during development, document them here for transparency:
 
 ## Team Contributions
 
-- [Name 1]: [Specific contributions - e.g., Frontend development, API integration, etc.]
-- [Name 2]: [Specific contributions - e.g., Backend development, Database design, etc.]
-- [Name 3]: [Specific contributions - e.g., UI/UX design, Testing, Documentation, etc.]
+- [Ragima N P]: [Project planning, brainstorming, testing & debugging]
+- [Varsha Surjith]: [Project planning, brainstorming, testing & debugging]
+
 
 ---
 
